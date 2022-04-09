@@ -1,4 +1,5 @@
 package org.launchcode.java.studios.ResturantMenu;
 
-public class Menu 4{
+public class Menu {
+
 }
